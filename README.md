@@ -133,6 +133,10 @@ void loop() {
 
 ---
 
+## SnapEDA:
+
+https://www.snapeda.com/home/
+
 ## Dicas gerais
 
 - Sempre verificar qual porta COM o dispositivo está usando no **Gerenciador de Dispositivos** antes de rodar comandos
